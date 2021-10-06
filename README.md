@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Assignment #03: Midterm and Final Score Analysis
 
-    #### Individual Score
+    ### Individual Score
     
     | Midterm | Final | Total |
     | ------- | ----- | ----- |
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
     | 45 | 0 | 14.400 |
     | 42 | 0 | 13.440 |
     
-    #### Examination Analysis
+    ### Examination Analysis
     * Midterm
       * Mean: **74.209**
       * Variance: 632.817
